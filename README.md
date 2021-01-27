@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+this is an App where will implement the use service-worker
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
